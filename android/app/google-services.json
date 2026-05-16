@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503194045454",
+    "project_id": "rideco-174e4",
+    "storage_bucket": "rideco-174e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503194045454:android:6e63504d51c8a18f3f005f",
+        "android_client_info": {
+          "package_name": "com.example.rideco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3uLSFy7CiRh0tRvVWv1Qs-C-VvCN4JLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
