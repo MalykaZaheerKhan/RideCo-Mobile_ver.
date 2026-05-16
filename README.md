@@ -37,11 +37,10 @@ The main objective of RideCo is to create a scalable and user-friendly ride shar
 ## 👥 Team Members
 
 ### Malyka Zaheer
-GitHub: :contentReference[oaicite:0]{index=0}
+GitHub: https://github.com/MalykaZaheerKhan
 
 ### Huria Tariq
-GitHub: :contentReference[oaicite:1]{index=1}
-
+GitHub: https://github.com/HuriaTariq
 ---
 
 ---
